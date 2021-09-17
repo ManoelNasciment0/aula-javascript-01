@@ -1,0 +1,8 @@
+1)
+var numero = 10   var nome = "Manoel"
+
+2)
+let numero = 4    let nome = "Hillary"
+
+3)
+const numero = 2000   const nome = "Nascimento"

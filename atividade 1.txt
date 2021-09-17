@@ -1,0 +1,8 @@
+1)
+a) var numeroA = 10 ;  var numeroB = 4;
+b) var textoA = "lolzinho é bom";   var textoB = "porém depende";
+c) var verdadeA = true;   var mentiraB = false;
+d) var campeoesLolA = ["azir", "karthus", "veigar"];   var campeoesLolB = ["orianna", "gnar", "viktor"];
+e) var carro = {cor: "azul", modelo: "ranger rover", ano: 2021};
+f) var semValorDefinido;
+g) var valorVazio = null;
